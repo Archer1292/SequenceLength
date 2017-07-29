@@ -1,0 +1,12 @@
+c:\users\arher\documents\visual studio 2017\Projects\SequenceLength\bin\Debug\SequenceLength.exe.config
+c:\users\arher\documents\visual studio 2017\Projects\SequenceLength\bin\Debug\SequenceLength.exe
+c:\users\arher\documents\visual studio 2017\Projects\SequenceLength\bin\Debug\SequenceLength.pdb
+c:\users\arher\documents\visual studio 2017\Projects\SequenceLength\obj\Debug\SequenceLength.csprojResolveAssemblyReference.cache
+c:\users\arher\documents\visual studio 2017\Projects\SequenceLength\obj\Debug\SequenceLength.exe
+c:\users\arher\documents\visual studio 2017\Projects\SequenceLength\obj\Debug\SequenceLength.pdb
+D:\MyProject\CSharp\SequenceLength\obj\Debug\SequenceLength.csprojResolveAssemblyReference.cache
+D:\MyProject\CSharp\SequenceLength\obj\Debug\SequenceLength.exe
+D:\MyProject\CSharp\SequenceLength\obj\Debug\SequenceLength.pdb
+D:\MyProject\CSharp\SequenceLength\bin\Debug\SequenceLength.exe.config
+D:\MyProject\CSharp\SequenceLength\bin\Debug\SequenceLength.exe
+D:\MyProject\CSharp\SequenceLength\bin\Debug\SequenceLength.pdb

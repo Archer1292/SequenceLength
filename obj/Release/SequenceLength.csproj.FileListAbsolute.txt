@@ -1,0 +1,5 @@
+D:\MyProject\CSharp\SequenceLength\bin\Release\SequenceLength.exe.config
+D:\MyProject\CSharp\SequenceLength\bin\Release\SequenceLength.exe
+D:\MyProject\CSharp\SequenceLength\bin\Release\SequenceLength.pdb
+D:\MyProject\CSharp\SequenceLength\obj\Release\SequenceLength.exe
+D:\MyProject\CSharp\SequenceLength\obj\Release\SequenceLength.pdb
